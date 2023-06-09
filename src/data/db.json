@@ -10,7 +10,7 @@
             "id": 2,
             "descripcion": "sueldo empleo",
             "cantidad": 800.000,
-            "tipo": "ingreso"
+            "tipo": "ingresos"
         },
         {
             "id": 3,
@@ -28,6 +28,42 @@
             "id": 5,
             "descripcion": "arriendo",
             "cantidad": 400,
+            "tipo": "egreso"
+        },
+        {
+            "id": 6,
+            "descripcion": "pagar datos",
+            "cantidad": 50,
+            "tipo": "egreso"
+        },
+        {
+            "id": 7,
+            "descripcion": "ahorro",
+            "cantidad": 20,
+            "tipo": "egreso"
+        },
+        {
+            "id": 8,
+            "descripcion": "trabajos extras",
+            "cantidad": 350,
+            "tipo": "ingresos"
+        },
+        {
+            "id": 9,
+            "descripcion": "subsidio",
+            "cantidad": 30,
+            "tipo": "ingresos"
+        },
+        {
+            "id": 10,
+            "descripcion": "devolucion de iva",
+            "cantidad": 5,
+            "tipo": "ingresos"
+        },
+        {
+            "id": 11,
+            "descripcion": "pago universidad",
+            "cantidad": 120,
             "tipo": "egreso"
         }
     ]
