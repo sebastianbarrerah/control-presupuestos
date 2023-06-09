@@ -1,0 +1,34 @@
+{
+    "finanzas":[
+        {
+            "id": 1,
+            "descripcion": "compra en supermercado",
+            "cantidad": 4500,
+            "tipo": "egreso"
+        },
+        {
+            "id": 2,
+            "descripcion": "sueldo empleo",
+            "cantidad": 800.000,
+            "tipo": "ingreso"
+        },
+        {
+            "id": 3,
+            "descripcion": "transporte",
+            "cantidad": 100,
+            "tipo": "egreso"
+        },
+        {
+            "id": 4,
+            "descripcion": "diversion",
+            "cantidad": 350,
+            "tipo": "egreso"
+        },
+        {
+            "id": 5,
+            "descripcion": "arriendo",
+            "cantidad": 400,
+            "tipo": "egreso"
+        }
+    ]
+}
